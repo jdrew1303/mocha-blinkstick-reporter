@@ -14,7 +14,9 @@
   "author": "James Drew <j.drew1303@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mocha": "^6.2.2",
     "blinkstick": "moritonal/blinkstick-node"
+  },
+  "peerDependencies": {
+    "mocha": "^6.2.2"
   }
 }
