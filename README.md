@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/blinkstick_nano.jpg">
+<img src="https://raw.githubusercontent.com/jdrew1303/mocha-blinkstick-reporter/master/docs/blinkstick_nano.jpg">
 </p>
 
 <p align="center">
