@@ -2,6 +2,10 @@
   "name": "mocha-blinkstick-reporter",
   "version": "1.0.0",
   "description": "allows you to use a blinstick as a test indicator on your local computer, this is especially handy with mocha's watch mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w -R mocha-blinkstick-reporter ./*.spec.js"
+  },
   "keywords": [
     "mocha",
     "reporter",
